@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ea22e2559ae9d74b96b4fafa7dda5d0, type: 3}
+  m_Name: ConsoleZSettings
+  m_EditorClassIdentifier: 
+  accessKey: 9
+  defaultColor: {r: 1, g: 1, b: 1, a: 1}
+  warningColor: {r: 0.8490566, g: 0.7309824, b: 0.16420433, a: 1}
+  errorColor: {r: 0.8509804, g: 0.17129494, b: 0.16470587, a: 1}
+  defaultTypeText: '[Log]:'
+  warningTypeText: '[Warning]:'
+  errorTypeText: '[Error]:'
