@@ -1,6 +1,6 @@
 # ConsoleZ
 
-This Repo holds the source code and UnityPackage asset for ConsoleZ. A simple and easy to use console that you link up to event within your unity game. 
+This Repo holds the source code and UnityPackage asset for ConsoleZ. A simple and easy to use console that you can link up to events or actions within your unity game. 
 
 ## Features
 
