@@ -10,6 +10,9 @@ This Repo holds the source code and UnityPackage asset for ConsoleZ. A simple an
 * Ability to store through default commands
 * Easy access to add custom command or even link up with unity events
 
+## Requirements
+* Text Mesh Pro Unity package
+
 ## GIFS!!!
 
 ![Type directly to the console](ConsoleZ.gif)
