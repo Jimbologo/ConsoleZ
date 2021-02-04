@@ -64,6 +64,11 @@ public class DebugZ : MonoBehaviour
         parentObject.SetActive(false);
 
         LogInfo();
+
+        if(FindObjectsOfType<EventSystem>().Length > 1)
+        {
+            GetComponentInChildren<EventSystem>().gameObject.SetActive(false);
+        }
     }
 
     /// <summary>
